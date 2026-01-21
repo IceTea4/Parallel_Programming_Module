@@ -1,0 +1,15 @@
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/bin/Debug/net7.0/L1a
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/bin/Debug/net7.0/L1a.deps.json
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/bin/Debug/net7.0/L1a.runtimeconfig.json
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/bin/Debug/net7.0/L1a.dll
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/bin/Debug/net7.0/L1a.pdb
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/L1a.csproj.AssemblyReference.cache
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/L1a.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/L1a.AssemblyInfoInputs.cache
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/L1a.AssemblyInfo.cs
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/L1a.csproj.CoreCompileInputs.cache
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/L1a.dll
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/refint/L1a.dll
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/L1a.pdb
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/L1a.genruntimeconfig.cache
+/Users/IceTea/Documents/LygiagretusProgramavimas/L1a/obj/Debug/net7.0/ref/L1a.dll
