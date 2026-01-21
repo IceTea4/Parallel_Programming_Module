@@ -1,0 +1,1254 @@
+{
+  "player": [
+    {
+      "name": "Lucas Wright",
+      "games": 10,
+      "winning": 32.5
+    },
+    {
+      "name": "Emily Lewis",
+      "games": 12,
+      "winning": 41.9
+    },
+    {
+      "name": "Scarlett Brooks",
+      "games": 14,
+      "winning": 36.2
+    },
+    {
+      "name": "Noah Campbell",
+      "games": 11,
+      "winning": 38.4
+    },
+    {
+      "name": "Amelia Diaz",
+      "games": 13,
+      "winning": 34.3
+    },
+    {
+      "name": "Matthew Martin",
+      "games": 15,
+      "winning": 29.0
+    },
+    {
+      "name": "Chloe Ramirez",
+      "games": 9,
+      "winning": 40.6
+    },
+    {
+      "name": "Riley Allen",
+      "games": 12,
+      "winning": 35.1
+    },
+    {
+      "name": "Olivia Gray",
+      "games": 8,
+      "winning": 42.8
+    },
+    {
+      "name": "Ethan Hill",
+      "games": 14,
+      "winning": 37.4
+    },
+    {
+      "name": "Isabella James",
+      "games": 10,
+      "winning": 39.7
+    },
+    {
+      "name": "David Thompson",
+      "games": 13,
+      "winning": 33.2
+    },
+    {
+      "name": "Mia Harris",
+      "games": 7,
+      "winning": 44.0
+    },
+    {
+      "name": "James Brooks",
+      "games": 12,
+      "winning": 30.5
+    },
+    {
+      "name": "Victoria Nelson",
+      "games": 11,
+      "winning": 31.2
+    },
+    {
+      "name": "Logan Adams",
+      "games": 9,
+      "winning": 28.6
+    },
+    {
+      "name": "Sophia Robinson",
+      "games": 14,
+      "winning": 39.3
+    },
+    {
+      "name": "Sebastian Lewis",
+      "games": 10,
+      "winning": 34.2
+    },
+    {
+      "name": "Aria Scott",
+      "games": 13,
+      "winning": 32.1
+    },
+    {
+      "name": "Grace Bennett",
+      "games": 12,
+      "winning": 40.5
+    },
+    {
+      "name": "Lucas Carter",
+      "games": 15,
+      "winning": 29.4
+    },
+    {
+      "name": "Harper Gomez",
+      "games": 11,
+      "winning": 33.9
+    },
+    {
+      "name": "Daniel Young",
+      "games": 8,
+      "winning": 35.3
+    },
+    {
+      "name": "Ella Rivera",
+      "games": 14,
+      "winning": 30.6
+    },
+    {
+      "name": "Benjamin Green",
+      "games": 10,
+      "winning": 36.7
+    },
+    {
+      "name": "Ava Baker",
+      "games": 13,
+      "winning": 31.0
+    },
+    {
+      "name": "Samuel King",
+      "games": 12,
+      "winning": 38.4
+    },
+    {
+      "name": "Evelyn Robinson",
+      "games": 9,
+      "winning": 33.2
+    },
+    {
+      "name": "Liam Watson",
+      "games": 15,
+      "winning": 29.8
+    },
+    {
+      "name": "Abigail Thompson",
+      "games": 11,
+      "winning": 34.6
+    },
+    {
+      "name": "Joseph Ward",
+      "games": 14,
+      "winning": 39.0
+    },
+    {
+      "name": "Aiden Lee",
+      "games": 10,
+      "winning": 28.9
+    },
+    {
+      "name": "Zoe Hall",
+      "games": 12,
+      "winning": 36.7
+    },
+    {
+      "name": "Amelia Kelly",
+      "games": 13,
+      "winning": 32.5
+    },
+    {
+      "name": "Alexander Brooks",
+      "games": 8,
+      "winning": 30.8
+    },
+    {
+      "name": "Mantas Petravičius",
+      "games": 22,
+      "winning": 5.1
+    },
+    {
+      "name": "Jonas Butkus",
+      "games": 8,
+      "winning": 38.8
+    },
+    {
+      "name": "Emilija Vasiliauskas",
+      "games": 49,
+      "winning": 40.6
+    },
+    {
+      "name": "Ieva Mačiulis",
+      "games": 31,
+      "winning": 40.5
+    },
+    {
+      "name": "Gabriele Sakalauskas",
+      "games": 6,
+      "winning": 31.0
+    },
+    {
+      "name": "Laura Petrauskas",
+      "games": 18,
+      "winning": 44.4
+    },
+    {
+      "name": "Ieva Vaičiulis",
+      "games": 21,
+      "winning": 5.2
+    },
+    {
+      "name": "Laura Stankevičius",
+      "games": 39,
+      "winning": 30.0
+    },
+    {
+      "name": "Emilija Vaičiulis",
+      "games": 6,
+      "winning": 38.5
+    },
+    {
+      "name": "Laura Urbonas",
+      "games": 34,
+      "winning": 26.3
+    },
+    {
+      "name": "Emilija Petravičius",
+      "games": 15,
+      "winning": 17.6
+    },
+    {
+      "name": "Dovydas Mockus",
+      "games": 38,
+      "winning": 14.5
+    },
+    {
+      "name": "Mantas Mockus",
+      "games": 37,
+      "winning": 36.5
+    },
+    {
+      "name": "Greta Jankauskas",
+      "games": 33,
+      "winning": 40.6
+    },
+    {
+      "name": "Justas Urbonas",
+      "games": 15,
+      "winning": 49.5
+    },
+    {
+      "name": "Paulius Petrauskas",
+      "games": 44,
+      "winning": 15.6
+    },
+    {
+      "name": "Justas Ramanauskas",
+      "games": 16,
+      "winning": 18.8
+    },
+    {
+      "name": "Ugnė Paulauskas",
+      "games": 42,
+      "winning": 30.2
+    },
+    {
+      "name": "Monika Vaičiulis",
+      "games": 15,
+      "winning": 46.0
+    },
+    {
+      "name": "Justas Paulauskas",
+      "games": 46,
+      "winning": 46.7
+    },
+    {
+      "name": "Ieva Mikalauskas",
+      "games": 23,
+      "winning": 5.6
+    },
+    {
+      "name": "Greta Urbonas",
+      "games": 33,
+      "winning": 8.8
+    },
+    {
+      "name": "Ignas Jonaitis",
+      "games": 22,
+      "winning": 20.7
+    },
+    {
+      "name": "Karolis Mačiulis",
+      "games": 7,
+      "winning": 37.2
+    },
+    {
+      "name": "Lukas Bieliauskas",
+      "games": 39,
+      "winning": 37.7
+    },
+    {
+      "name": "Jonas Paulauskas",
+      "games": 34,
+      "winning": 38.0
+    },
+    {
+      "name": "Dovydas Sakalauskas",
+      "games": 19,
+      "winning": 49.5
+    },
+    {
+      "name": "Ugnė Mačiulis",
+      "games": 8,
+      "winning": 6.3
+    },
+    {
+      "name": "Mantas Butkus",
+      "games": 30,
+      "winning": 14.1
+    },
+    {
+      "name": "Ieva Paulauskas",
+      "games": 8,
+      "winning": 12.1
+    },
+    {
+      "name": "Austeja Bieliauskas",
+      "games": 41,
+      "winning": 38.0
+    },
+    {
+      "name": "Dominykas Bieliauskas",
+      "games": 27,
+      "winning": 37.7
+    },
+    {
+      "name": "Monika Jonaitis",
+      "games": 32,
+      "winning": 30.7
+    },
+    {
+      "name": "Laura Jonaitis",
+      "games": 20,
+      "winning": 46.4
+    },
+    {
+      "name": "Monika Jonušas",
+      "games": 25,
+      "winning": 24.4
+    },
+    {
+      "name": "Lukas Mikalauskas",
+      "games": 49,
+      "winning": 34.0
+    },
+    {
+      "name": "Mantas Bieliauskas",
+      "games": 5,
+      "winning": 47.0
+    },
+    {
+      "name": "Dovydas Bieliauskas",
+      "games": 50,
+      "winning": 33.9
+    },
+    {
+      "name": "Ieva Butkus",
+      "games": 5,
+      "winning": 38.4
+    },
+    {
+      "name": "Karolis Petravičius",
+      "games": 22,
+      "winning": 12.6
+    },
+    {
+      "name": "Laura Vaičiulis",
+      "games": 15,
+      "winning": 11.5
+    },
+    {
+      "name": "Gabriele Butkus",
+      "games": 44,
+      "winning": 40.2
+    },
+    {
+      "name": "Ieva Kazlauskas",
+      "games": 32,
+      "winning": 48.8
+    },
+    {
+      "name": "Justas Bieliauskas",
+      "games": 50,
+      "winning": 30.8
+    },
+    {
+      "name": "Mantas Jonaitis",
+      "games": 41,
+      "winning": 33.7
+    },
+    {
+      "name": "Karolis Mikalauskas",
+      "games": 40,
+      "winning": 27.7
+    },
+    {
+      "name": "Arnas Vaičiulis",
+      "games": 25,
+      "winning": 9.0
+    },
+    {
+      "name": "Dominykas Vaičiulis",
+      "games": 31,
+      "winning": 42.0
+    },
+    {
+      "name": "Karina Jonaitis",
+      "games": 41,
+      "winning": 32.2
+    },
+    {
+      "name": "Austeja Mikalauskas",
+      "games": 5,
+      "winning": 28.9
+    },
+    {
+      "name": "Mantas Kazlauskas",
+      "games": 6,
+      "winning": 48.1
+    },
+    {
+      "name": "Miglė Vasiliauskas",
+      "games": 8,
+      "winning": 25.0
+    },
+    {
+      "name": "Dovydas Jankauskas",
+      "games": 9,
+      "winning": 32.5
+    },
+    {
+      "name": "Ignas Sakalauskas",
+      "games": 37,
+      "winning": 29.3
+    },
+    {
+      "name": "Dominykas Mikalauskas",
+      "games": 41,
+      "winning": 33.5
+    },
+    {
+      "name": "Gabriele Paulauskas",
+      "games": 49,
+      "winning": 37.2
+    },
+    {
+      "name": "Ieva Petrauskas",
+      "games": 40,
+      "winning": 13.4
+    },
+    {
+      "name": "Miglė Petravičius",
+      "games": 8,
+      "winning": 6.4
+    },
+    {
+      "name": "Jonas Petravičius",
+      "games": 40,
+      "winning": 14.4
+    },
+    {
+      "name": "Laura Vasiliauskas",
+      "games": 41,
+      "winning": 7.8
+    },
+    {
+      "name": "Arnas Mockus",
+      "games": 32,
+      "winning": 44.2
+    },
+    {
+      "name": "Karina Bieliauskas",
+      "games": 41,
+      "winning": 19.3
+    },
+    {
+      "name": "Karolis Černiauskas",
+      "games": 41,
+      "winning": 8.2
+    },
+    {
+      "name": "Monika Vasiliauskas",
+      "games": 46,
+      "winning": 13.6
+    },
+    {
+      "name": "Dominykas Kazlauskas",
+      "games": 22,
+      "winning": 35.1
+    },
+    {
+      "name": "Emilija Bieliauskas",
+      "games": 29,
+      "winning": 37.7
+    },
+    {
+      "name": "Arnas Černiauskas",
+      "games": 36,
+      "winning": 48.6
+    },
+    {
+      "name": "Gabriele Jonušas",
+      "games": 37,
+      "winning": 23.1
+    },
+    {
+      "name": "Monika Stankevičius",
+      "games": 33,
+      "winning": 29.8
+    },
+    {
+      "name": "Miglė Černiauskas",
+      "games": 39,
+      "winning": 37.8
+    },
+    {
+      "name": "Laura Petravičius",
+      "games": 41,
+      "winning": 14.1
+    },
+    {
+      "name": "Justas Jonušas",
+      "games": 47,
+      "winning": 18.7
+    },
+    {
+      "name": "Austeja Jonaitis",
+      "games": 26,
+      "winning": 23.6
+    },
+    {
+      "name": "Austeja Vasiliauskas",
+      "games": 41,
+      "winning": 9.9
+    },
+    {
+      "name": "Paulius Mikalauskas",
+      "games": 19,
+      "winning": 46.7
+    },
+    {
+      "name": "Lukas Mockus",
+      "games": 13,
+      "winning": 8.6
+    },
+    {
+      "name": "Mantas Jankauskas",
+      "games": 20,
+      "winning": 9.8
+    },
+    {
+      "name": "Ignas Černiauskas",
+      "games": 11,
+      "winning": 13.4
+    },
+    {
+      "name": "Karolis Vaičiulis",
+      "games": 14,
+      "winning": 19.8
+    },
+    {
+      "name": "Paulius Petravičius",
+      "games": 45,
+      "winning": 36.8
+    },
+    {
+      "name": "Karina Vaičiulis",
+      "games": 21,
+      "winning": 15.5
+    },
+    {
+      "name": "Mantas Petrauskas",
+      "games": 6,
+      "winning": 17.9
+    },
+    {
+      "name": "Tomas Jonušas",
+      "games": 47,
+      "winning": 31.7
+    },
+    {
+      "name": "Ugnė Urbonas",
+      "games": 31,
+      "winning": 41.6
+    },
+    {
+      "name": "Jonas Jonaitis",
+      "games": 17,
+      "winning": 33.1
+    },
+    {
+      "name": "Dovydas Petrauskas",
+      "games": 44,
+      "winning": 30.2
+    },
+    {
+      "name": "Justas Černiauskas",
+      "games": 41,
+      "winning": 19.6
+    },
+    {
+      "name": "Karolis Bieliauskas",
+      "games": 30,
+      "winning": 5.1
+    },
+    {
+      "name": "Dovydas Jonaitis",
+      "games": 26,
+      "winning": 34.1
+    },
+    {
+      "name": "Jonas Bieliauskas",
+      "games": 13,
+      "winning": 34.0
+    },
+    {
+      "name": "Karina Kazlauskas",
+      "games": 28,
+      "winning": 46.0
+    },
+    {
+      "name": "Mantas Stankevičius",
+      "games": 31,
+      "winning": 40.2
+    },
+    {
+      "name": "Tomas Urbonas",
+      "games": 17,
+      "winning": 27.5
+    },
+    {
+      "name": "Dominykas Ramanauskas",
+      "games": 28,
+      "winning": 26.2
+    },
+    {
+      "name": "Monika Černiauskas",
+      "games": 28,
+      "winning": 30.4
+    },
+    {
+      "name": "Greta Petrauskas",
+      "games": 32,
+      "winning": 9.7
+    },
+    {
+      "name": "Dominykas Urbonas",
+      "games": 24,
+      "winning": 23.8
+    },
+    {
+      "name": "Arnas Ramanauskas",
+      "games": 48,
+      "winning": 44.5
+    },
+    {
+      "name": "Dominykas Petravičius",
+      "games": 32,
+      "winning": 9.4
+    },
+    {
+      "name": "Arnas Mikalauskas",
+      "games": 24,
+      "winning": 33.1
+    },
+    {
+      "name": "Austeja Stankevičius",
+      "games": 27,
+      "winning": 22.0
+    },
+    {
+      "name": "Emilija Jonušas",
+      "games": 13,
+      "winning": 5.3
+    },
+    {
+      "name": "Greta Černiauskas",
+      "games": 13,
+      "winning": 22.4
+    },
+    {
+      "name": "Tomas Petravičius",
+      "games": 13,
+      "winning": 30.0
+    },
+    {
+      "name": "Monika Bieliauskas",
+      "games": 25,
+      "winning": 11.7
+    },
+    {
+      "name": "Paulius Ramanauskas",
+      "games": 16,
+      "winning": 9.3
+    },
+    {
+      "name": "Austeja Vaičiulis",
+      "games": 18,
+      "winning": 35.7
+    },
+    {
+      "name": "Laura Sakalauskas",
+      "games": 34,
+      "winning": 46.6
+    },
+    {
+      "name": "Greta Mockus",
+      "games": 35,
+      "winning": 41.9
+    },
+    {
+      "name": "Dovydas Petravičius",
+      "games": 38,
+      "winning": 34.9
+    },
+    {
+      "name": "Miglė Bieliauskas",
+      "games": 31,
+      "winning": 6.3
+    },
+    {
+      "name": "Justas Petrauskas",
+      "games": 18,
+      "winning": 33.4
+    },
+    {
+      "name": "Karina Mockus",
+      "games": 44,
+      "winning": 40.8
+    },
+    {
+      "name": "Mantas Jonušas",
+      "games": 33,
+      "winning": 24.9
+    },
+    {
+      "name": "Karolis Ramanauskas",
+      "games": 40,
+      "winning": 19.7
+    },
+    {
+      "name": "Karolis Jankauskas",
+      "games": 7,
+      "winning": 44.9
+    },
+    {
+      "name": "Paulius Bieliauskas",
+      "games": 21,
+      "winning": 40.8
+    },
+    {
+      "name": "Ugnė Vasiliauskas",
+      "games": 38,
+      "winning": 16.3
+    },
+    {
+      "name": "Mantas Sakalauskas",
+      "games": 11,
+      "winning": 30.9
+    },
+    {
+      "name": "Dovydas Kazlauskas",
+      "games": 20,
+      "winning": 42.0
+    },
+    {
+      "name": "Ugnė Černiauskas",
+      "games": 50,
+      "winning": 45.2
+    },
+    {
+      "name": "Dovydas Vaičiulis",
+      "games": 9,
+      "winning": 17.7
+    },
+    {
+      "name": "Ieva Vasiliauskas",
+      "games": 12,
+      "winning": 39.9
+    },
+    {
+      "name": "Jonas Urbonas",
+      "games": 9,
+      "winning": 20.2
+    },
+    {
+      "name": "Austeja Urbonas",
+      "games": 14,
+      "winning": 39.9
+    },
+    {
+      "name": "Gabriele Stankevičius",
+      "games": 36,
+      "winning": 7.0
+    },
+    {
+      "name": "Ignas Mikalauskas",
+      "games": 24,
+      "winning": 32.0
+    },
+    {
+      "name": "Jonas Vaičiulis",
+      "games": 47,
+      "winning": 20.3
+    },
+    {
+      "name": "Monika Ramanauskas",
+      "games": 11,
+      "winning": 7.8
+    },
+    {
+      "name": "Austeja Petravičius",
+      "games": 22,
+      "winning": 5.9
+    },
+    {
+      "name": "Tomas Mačiulis",
+      "games": 36,
+      "winning": 15.1
+    },
+    {
+      "name": "Jonas Mačiulis",
+      "games": 23,
+      "winning": 43.2
+    },
+    {
+      "name": "Lukas Paulauskas",
+      "games": 42,
+      "winning": 12.8
+    },
+    {
+      "name": "Dominykas Mačiulis",
+      "games": 30,
+      "winning": 35.3
+    },
+    {
+      "name": "Ieva Bieliauskas",
+      "games": 41,
+      "winning": 8.2
+    },
+    {
+      "name": "Ugnė Mikalauskas",
+      "games": 9,
+      "winning": 26.0
+    },
+    {
+      "name": "Ugnė Petravičius",
+      "games": 25,
+      "winning": 33.4
+    },
+    {
+      "name": "Karolis Paulauskas",
+      "games": 10,
+      "winning": 5.9
+    },
+    {
+      "name": "Gabriele Petrauskas",
+      "games": 44,
+      "winning": 23.7
+    },
+    {
+      "name": "Karolis Urbonas",
+      "games": 40,
+      "winning": 36.2
+    },
+    {
+      "name": "Justas Petravičius",
+      "games": 28,
+      "winning": 37.4
+    },
+    {
+      "name": "Arnas Petrauskas",
+      "games": 32,
+      "winning": 45.3
+    },
+    {
+      "name": "Ieva Urbonas",
+      "games": 10,
+      "winning": 32.5
+    },
+    {
+      "name": "Justas Mikalauskas",
+      "games": 24,
+      "winning": 22.3
+    },
+    {
+      "name": "Tomas Vaičiulis",
+      "games": 46,
+      "winning": 32.4
+    },
+    {
+      "name": "Justas Butkus",
+      "games": 12,
+      "winning": 37.3
+    },
+    {
+      "name": "Mantas Ramanauskas",
+      "games": 35,
+      "winning": 36.1
+    },
+    {
+      "name": "Miglė Butkus",
+      "games": 18,
+      "winning": 47.1
+    },
+    {
+      "name": "Arnas Bieliauskas",
+      "games": 16,
+      "winning": 23.3
+    },
+    {
+      "name": "Gabriele Jankauskas",
+      "games": 45,
+      "winning": 8.0
+    },
+    {
+      "name": "Laura Kazlauskas",
+      "games": 39,
+      "winning": 49.8
+    },
+    {
+      "name": "Karolis Jonaitis",
+      "games": 45,
+      "winning": 46.3
+    },
+    {
+      "name": "Gabriele Vasiliauskas",
+      "games": 15,
+      "winning": 30.0
+    },
+    {
+      "name": "Ugnė Ramanauskas",
+      "games": 26,
+      "winning": 23.3
+    },
+    {
+      "name": "Lukas Petravičius",
+      "games": 14,
+      "winning": 40.6
+    },
+    {
+      "name": "Ignas Urbonas",
+      "games": 9,
+      "winning": 13.2
+    },
+    {
+      "name": "Emilija Ramanauskas",
+      "games": 30,
+      "winning": 32.1
+    },
+    {
+      "name": "Lukas Černiauskas",
+      "games": 18,
+      "winning": 48.1
+    },
+    {
+      "name": "Monika Paulauskas",
+      "games": 29,
+      "winning": 30.8
+    },
+    {
+      "name": "Miglė Jonušas",
+      "games": 38,
+      "winning": 5.4
+    },
+    {
+      "name": "Karina Jonušas",
+      "games": 18,
+      "winning": 12.1
+    },
+    {
+      "name": "Gabriele Mačiulis",
+      "games": 48,
+      "winning": 41.0
+    },
+    {
+      "name": "Karina Petravičius",
+      "games": 35,
+      "winning": 21.9
+    },
+    {
+      "name": "Ignas Paulauskas",
+      "games": 43,
+      "winning": 24.3
+    },
+    {
+      "name": "Miglė Petrauskas",
+      "games": 21,
+      "winning": 20.6
+    },
+    {
+      "name": "Ugnė Sakalauskas",
+      "games": 20,
+      "winning": 33.9
+    },
+    {
+      "name": "Lukas Sakalauskas",
+      "games": 45,
+      "winning": 29.6
+    },
+    {
+      "name": "Justas Mockus",
+      "games": 21,
+      "winning": 9.1
+    },
+    {
+      "name": "Ieva Jonušas",
+      "games": 26,
+      "winning": 48.4
+    },
+    {
+      "name": "Greta Mačiulis",
+      "games": 35,
+      "winning": 21.4
+    },
+    {
+      "name": "Dovydas Mačiulis",
+      "games": 37,
+      "winning": 48.4
+    },
+    {
+      "name": "Miglė Vaičiulis",
+      "games": 35,
+      "winning": 32.4
+    },
+    {
+      "name": "Justas Stankevičius",
+      "games": 40,
+      "winning": 5.2
+    },
+    {
+      "name": "Karolis Mockus",
+      "games": 10,
+      "winning": 43.6
+    },
+    {
+      "name": "Emilija Sakalauskas",
+      "games": 36,
+      "winning": 26.9
+    },
+    {
+      "name": "Dominykas Vasiliauskas",
+      "games": 23,
+      "winning": 29.3
+    },
+    {
+      "name": "Paulius Vaičiulis",
+      "games": 11,
+      "winning": 5.9
+    },
+    {
+      "name": "Justas Sakalauskas",
+      "games": 38,
+      "winning": 8.7
+    },
+    {
+      "name": "Paulius Jonaitis",
+      "games": 25,
+      "winning": 10.9
+    },
+    {
+      "name": "Laura Mikalauskas",
+      "games": 29,
+      "winning": 43.0
+    },
+    {
+      "name": "Lukas Butkus",
+      "games": 8,
+      "winning": 7.5
+    },
+    {
+      "name": "Greta Kazlauskas",
+      "games": 12,
+      "winning": 21.9
+    },
+    {
+      "name": "Dovydas Urbonas",
+      "games": 23,
+      "winning": 33.3
+    },
+    {
+      "name": "Arnas Stankevičius",
+      "games": 28,
+      "winning": 32.7
+    },
+    {
+      "name": "Miglė Paulauskas",
+      "games": 32,
+      "winning": 36.5
+    },
+    {
+      "name": "Emilija Mockus",
+      "games": 50,
+      "winning": 47.2
+    },
+    {
+      "name": "Ugnė Jonušas",
+      "games": 36,
+      "winning": 48.0
+    },
+    {
+      "name": "Ieva Stankevičius",
+      "games": 25,
+      "winning": 7.2
+    },
+    {
+      "name": "Lukas Vasiliauskas",
+      "games": 16,
+      "winning": 20.1
+    },
+    {
+      "name": "Ugnė Bieliauskas",
+      "games": 14,
+      "winning": 33.2
+    },
+    {
+      "name": "Dominykas Jankauskas",
+      "games": 21,
+      "winning": 15.9
+    },
+    {
+      "name": "Austeja Paulauskas",
+      "games": 34,
+      "winning": 25.3
+    },
+    {
+      "name": "Mantas Mikalauskas",
+      "games": 34,
+      "winning": 36.5
+    },
+    {
+      "name": "Karina Ramanauskas",
+      "games": 5,
+      "winning": 42.3
+    },
+    {
+      "name": "Ignas Ramanauskas",
+      "games": 45,
+      "winning": 34.4
+    },
+    {
+      "name": "Dovydas Paulauskas",
+      "games": 9,
+      "winning": 7.2
+    },
+    {
+      "name": "Austeja Jankauskas",
+      "games": 34,
+      "winning": 37.3
+    },
+    {
+      "name": "Karina Paulauskas",
+      "games": 28,
+      "winning": 19.0
+    },
+    {
+      "name": "Ieva Mockus",
+      "games": 50,
+      "winning": 25.0
+    },
+    {
+      "name": "Ignas Jonušas",
+      "games": 48,
+      "winning": 35.6
+    },
+    {
+      "name": "Karina Stankevičius",
+      "games": 12,
+      "winning": 39.9
+    },
+    {
+      "name": "Paulius Paulauskas",
+      "games": 17,
+      "winning": 15.6
+    },
+    {
+      "name": "Emilija Petrauskas",
+      "games": 36,
+      "winning": 43.5
+    },
+    {
+      "name": "Jonas Mockus",
+      "games": 29,
+      "winning": 16.1
+    },
+    {
+      "name": "Lukas Ramanauskas",
+      "games": 19,
+      "winning": 34.3
+    },
+    {
+      "name": "Laura Ramanauskas",
+      "games": 32,
+      "winning": 41.9
+    },
+    {
+      "name": "Monika Mikalauskas",
+      "games": 33,
+      "winning": 7.9
+    },
+    {
+      "name": "Mantas Černiauskas",
+      "games": 46,
+      "winning": 43.2
+    },
+    {
+      "name": "Jonas Jankauskas",
+      "games": 13,
+      "winning": 12.4
+    },
+    {
+      "name": "Emilija Urbonas",
+      "games": 24,
+      "winning": 9.8
+    },
+    {
+      "name": "Arnas Jonaitis",
+      "games": 23,
+      "winning": 8.7
+    },
+    {
+      "name": "Dominykas Jonušas",
+      "games": 12,
+      "winning": 25.0
+    },
+    {
+      "name": "Mantas Vaičiulis",
+      "games": 19,
+      "winning": 47.4
+    },
+    {
+      "name": "Gabriele Bieliauskas",
+      "games": 25,
+      "winning": 6.9
+    },
+    {
+      "name": "Emilija Paulauskas",
+      "games": 10,
+      "winning": 9.5
+    }
+  ]
+}
