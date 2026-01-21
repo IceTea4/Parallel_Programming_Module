@@ -1,0 +1,615 @@
+OpenCL device: Apple / Apple M1 Max
+OpenCL time: 0.0472155 s
+Python time: 0.851724 s
+
+RESULTS (filtered) - OpenCL and Python separately
+----------------------+----------+--------------+------------------+------------------
+name                  |games     |winning       |opencl_val        |python_val        
+----------------------+----------+--------------+------------------+------------------
+James Diaz 000        |50        |55.000        |2637363756        |845634091         
+Benjamin Ramirez 001  |24        |56.300        |389303999         |3724671448        
+Ava Lewis 002         |57        |90.100        |1882366230        |4294548535        
+Ava Carter 003        |37        |51.400        |2973355238        |2485324766        
+Aiden Lee 004         |24        |72.700        |945137069         |1936323836        
+Riley Diaz 005        |22        |82.200        |3183976183        |1596616225        
+Abigail Scott 006     |38        |76.500        |3280809075        |1596036637        
+Lucas Gomez 007       |20        |81.400        |94680749          |3425236464        
+Lucas Bennett 008     |19        |59.700        |1326835519        |650742183         
+Matthew Watson 009    |15        |67.100        |2736793397        |82300158          
+Alexander Robinson 010|32        |77.200        |1397054251        |4186920685        
+Noah Baker 011        |39        |74.100        |632768954         |1476741363        
+Mia Lewis 012         |45        |63.200        |2015888860        |3155779216        
+Alexander Ramirez 013 |22        |81.700        |3924563790        |3954214297        
+Ava Watson 014        |24        |84.800        |3984831294        |2727175109        
+Noah Gomez 015        |24        |89.000        |1771137858        |289774768         
+Mia Campbell 016      |39        |78.600        |3009505946        |3318389965        
+James Rivera 017      |33        |66.000        |4173567935        |1847373385        
+Ella Lee 018          |53        |79.200        |1620949194        |1069565752        
+Sebastian Harris 019  |56        |61.000        |1140272220        |1910737208        
+Grace Ramirez 020     |27        |94.500        |447015865         |3694579801        
+Amelia Diaz 021       |30        |87.900        |3260629926        |2085295224        
+Olivia Gomez 022      |12        |86.200        |1945858974        |3189342094        
+Logan Carter 023      |14        |59.500        |3040026953        |2250483181        
+Sebastian Brooks 024  |51        |72.500        |3173895033        |582610498         
+Isabella Robinson 025 |26        |56.300        |4276751679        |632065848         
+Olivia Hall 026       |47        |69.300        |2269483037        |3245875501        
+Daniel King 027       |24        |94.900        |2455124149        |3932487187        
+Amelia Watson 028     |41        |54.100        |904990471         |1024973210        
+Ella Thompson 029     |17        |56.900        |3275694194        |1369662963        
+Aria Harris 030       |53        |69.000        |934180206         |2474072587        
+Sebastian King 031    |34        |76.800        |3429647457        |1306955433        
+Abigail Ramirez 032   |26        |93.700        |259455869         |11504130          
+James Scott 033       |56        |55.200        |3507357052        |3969036567        
+Joseph Hill 034       |51        |65.300        |1471335804        |3167896919        
+Isabella King 035     |20        |70.400        |2031743075        |1733323722        
+Benjamin Watson 036   |58        |58.000        |2078253289        |3175912908        
+Zoe Martin 037        |50        |63.400        |1654456421        |3612493727        
+Ella Lee 038          |22        |56.900        |355664525         |2773302608        
+Abigail Martin 039    |59        |91.500        |2466952060        |2120412247        
+Chloe Young 040       |30        |72.000        |3224743439        |3920873806        
+Liam Diaz 041         |33        |89.500        |2961486684        |4187585190        
+Ava Baker 042         |13        |60.800        |567382775         |3447475272        
+Aria Scott 043        |56        |71.900        |675857153         |3904341945        
+Daniel Ramirez 044    |44        |84.500        |2983755416        |2070627218        
+Ella Gomez 045        |40        |92.600        |3089032778        |3929905832        
+Samuel Carter 046     |43        |89.300        |1101934302        |3483272797        
+Ethan Rivera 047      |44        |84.000        |167923223         |956816077         
+Mia James 048         |29        |68.000        |4292067046        |1339961953        
+Harper Diaz 049       |43        |70.300        |3892270643        |64249304          
+Grace Lewis 050       |14        |65.200        |1353289490        |724848358         
+Amelia Diaz 051       |24        |50.300        |2415314500        |3634922426        
+Lucas Baker 052       |14        |90.700        |4061336780        |812771174         
+Victoria Carter 053   |42        |60.700        |4111323602        |367630546         
+Sophia Diaz 054       |44        |56.000        |1588047132        |2768988989        
+Riley Carter 055      |60        |71.300        |2541827900        |643699900         
+Samuel Hall 056       |16        |54.400        |296109400         |3581048618        
+Amelia Ramirez 057    |37        |68.500        |1530623181        |1529940495        
+Benjamin Allen 058    |51        |94.300        |3185567191        |2567565461        
+Benjamin Diaz 059     |35        |82.800        |3484691578        |4081388357        
+Scarlett Brooks 060   |22        |58.600        |394590105         |3172220051        
+Sebastian Diaz 061    |37        |58.300        |2306888651        |2551932305        
+Benjamin Allen 062    |14        |69.900        |2897614450        |1536220243        
+Abigail Baker 063     |51        |95.000        |2539100525        |457865633         
+Ella Hill 064         |58        |88.200        |3535486630        |1166680285        
+Olivia Wright 065     |41        |71.700        |4087464459        |2119799593        
+Abigail Harris 066    |13        |57.400        |758418704         |240196830         
+Sebastian Gray 067    |26        |91.700        |2309833998        |1385428258        
+Victoria Brooks 068   |37        |81.300        |2517769446        |897595183         
+Amelia Lewis 069      |22        |63.400        |601316068         |974239383         
+Logan Allen 070       |57        |74.400        |3241268568        |713276951         
+Zoe Young 071         |13        |76.300        |2434932291        |4017334556        
+Zoe Baker 072         |43        |57.100        |1099199746        |1090882319        
+Aria Ramirez 073      |21        |53.100        |691600915         |1294132405        
+Harper Lewis 074      |25        |68.200        |4198188299        |2641845520        
+Ava Hill 075          |48        |51.800        |566813962         |1353900274        
+Logan Young 076       |52        |76.300        |2956417182        |2732373167        
+Logan Diaz 077        |26        |59.200        |784907655         |254283177         
+Liam James 078        |26        |67.800        |4063962716        |3515309935        
+Aria Adams 079        |30        |91.800        |4237167157        |3337596202        
+Benjamin Baker 080    |39        |78.000        |2668997663        |202257952         
+Isabella Brooks 081   |44        |59.600        |374023545         |2419681865        
+Harper Hall 082       |32        |89.600        |1793258820        |4218407318        
+Liam Martin 083       |28        |57.100        |422530991         |3200548927        
+Liam Young 084        |51        |73.800        |1293298145        |319310495         
+Daniel Gomez 085      |52        |54.700        |420437990         |1659833147        
+David Gomez 086       |17        |90.000        |325139590         |1819575876        
+Lucas Carter 087      |28        |77.200        |1092655942        |737541755         
+Isabella King 088     |53        |78.500        |2728691309        |1936523561        
+Amelia Baker 089      |41        |61.300        |1354512906        |2354458749        
+James Allen 090       |50        |69.100        |729699757         |662652872         
+Daniel Nelson 091     |10        |65.000        |1828453822        |2524276767        
+Scarlett Lee 092      |26        |57.300        |2552274767        |1343719664        
+Abigail Bennett 093   |55        |69.200        |2989202796        |3710487908        
+David Lee 094         |14        |92.500        |311719457         |2847287927        
+David Hill 095        |12        |87.600        |2959402464        |1966929582        
+Mia Wright 096        |18        |51.900        |3330171910        |2426101330        
+Alexander Wright 097  |60        |93.700        |419379752         |1315389598        
+Harper Ramirez 098    |32        |59.500        |2380738509        |3905287695        
+Riley Martin 099      |16        |65.900        |3561181189        |380666685         
+Harper Watson 100     |57        |57.000        |2554758170        |237053680         
+Emily Wright 101      |20        |93.900        |1992229915        |97056453          
+Lucas Thompson 102    |36        |51.100        |1255295316        |3178148943        
+Harper Gomez 103      |36        |86.100        |3561325398        |2205539380        
+Benjamin Harris 104   |20        |85.400        |3778530000        |940128154         
+Grace Carter 105      |12        |88.600        |3246454643        |1817157215        
+Grace Diaz 106        |39        |65.700        |3919576501        |3090942986        
+Olivia Green 107      |11        |79.700        |2142302186        |4227571823        
+James Hall 108        |27        |88.900        |304891989         |936480358         
+Lucas Adams 109       |51        |72.900        |4134535198        |2000247614        
+Isabella Campbell 110 |17        |89.500        |694296149         |3927564524        
+Isabella Allen 111    |47        |93.300        |3977340841        |347742107         
+Matthew Robinson 112  |16        |76.800        |7645360           |3668900562        
+Zoe Bennett 113       |60        |64.100        |31537792          |935029002         
+Ethan Gomez 114       |34        |90.500        |743220289         |3101388353        
+Abigail King 115      |12        |81.900        |3288308803        |1225472656        
+Ethan Hall 116        |44        |80.900        |4105273646        |1382823817        
+Lucas Martin 117      |37        |53.100        |2146751430        |1138416056        
+Chloe Robinson 118    |30        |79.900        |1683529596        |1484353671        
+Riley Green 119       |29        |72.800        |2052173825        |1387186887        
+Daniel Carter 120     |35        |81.400        |2949052438        |3320412598        
+Noah Ramirez 121      |36        |79.900        |3856989564        |541262473         
+Liam Harris 122       |57        |90.600        |3211861026        |4148065484        
+Liam Gray 123         |45        |87.500        |3385693769        |2610568436        
+Logan James 124       |23        |69.300        |947575977         |2464072695        
+Evelyn King 125       |38        |69.900        |3260424208        |3620889944        
+Ella Ramirez 126      |40        |85.700        |3217141789        |2120022946        
+Lucas Baker 127       |15        |62.800        |413996359         |3900227968        
+Liam Diaz 128         |58        |60.600        |700342305         |280221629         
+Alexander Diaz 129    |22        |56.600        |2119263624        |55591514          
+Aria James 130        |40        |77.500        |3140685850        |2618666626        
+Ethan Rivera 131      |36        |89.900        |593561124         |3876733182        
+Olivia Diaz 132       |54        |67.300        |4070147157        |1681298627        
+Abigail Wright 133    |19        |79.500        |1158016509        |833270090         
+Benjamin Scott 134    |58        |88.700        |1260415512        |2751571790        
+Sebastian Allen 135   |37        |59.800        |1294810873        |4063584494        
+Chloe James 136       |45        |61.200        |3529624903        |2435633281        
+Logan Scott 137       |18        |86.100        |2222093473        |2141169061        
+Zoe Hill 138          |38        |77.600        |2905502780        |1295538741        
+Ella Robinson 139     |45        |70.100        |2972286209        |2867794704        
+Harper Ward 140       |40        |70.300        |3167614459        |2411041784        
+Victoria Nelson 141   |50        |62.500        |4280738439        |1604923430        
+Aria Rivera 142       |25        |62.400        |3275511035        |1177595076        
+Lucas Green 143       |28        |60.600        |336373654         |4049443318        
+David Diaz 144        |44        |53.600        |48807305          |986239467         
+Evelyn Baker 145      |34        |81.200        |1207109495        |3897490117        
+Sebastian Hill 146    |36        |68.300        |366896215         |193787015         
+Riley Harris 147      |13        |59.300        |2961963673        |3944096889        
+Aiden Watson 148      |59        |76.300        |3203472559        |469935509         
+Sophia Adams 149      |58        |75.900        |1142659837        |847224259         
+Noah Watson 150       |32        |63.400        |2482010601        |3488800278        
+Grace Kelly 151       |36        |74.200        |3758652755        |4118406074        
+Victoria Adams 152    |24        |62.300        |3466490223        |1419722846        
+Olivia Robinson 153   |34        |65.100        |1355127726        |1040129964        
+Daniel Martin 154     |20        |87.800        |1554243343        |3692409837        
+Olivia Lewis 155      |44        |51.200        |1847580539        |3733202225        
+Ava Nelson 156        |46        |79.800        |1415400010        |1468317738        
+Sebastian Campbell 157|37        |56.100        |1572316767        |4158496751        
+Logan Carter 158      |13        |61.700        |3500933213        |1332377347        
+Noah Gomez 159        |39        |64.700        |2259709419        |1705202246        
+Riley Gomez 160       |58        |92.800        |2859548551        |1223575751        
+Amelia Hall 161       |15        |71.200        |1063827460        |776220327         
+Alexander Scott 162   |24        |79.300        |1419822340        |1768418392        
+Ethan Ward 163        |11        |92.700        |1552533318        |1723729350        
+Harper Brooks 164     |11        |78.000        |3178359916        |2789822143        
+Evelyn James 165      |40        |80.100        |3157083021        |2318049764        
+Mia Campbell 166      |54        |61.500        |1892696692        |2697684276        
+Chloe Scott 167       |48        |77.300        |4152652766        |2418843115        
+Benjamin Lewis 168    |20        |93.400        |3309636028        |795513316         
+Noah Harris 169       |11        |91.800        |2181215013        |2886798076        
+Harper Bennett 170    |55        |58.900        |3567322438        |1065646643        
+Chloe Thompson 171    |54        |84.800        |949242382         |4241783486        
+Matthew Lee 172       |46        |85.200        |215192365         |656560585         
+Aria King 173         |37        |79.800        |370203715         |1624445651        
+Riley Ward 174        |51        |65.400        |3080644018        |1034039988        
+Mia Nelson 175        |41        |54.700        |2699758647        |3030339432        
+Samuel Campbell 176   |39        |81.800        |1950946931        |2721794731        
+James Martin 177      |56        |73.500        |3246388548        |228299719         
+Sebastian Hill 178    |44        |84.900        |3156107161        |2555006522        
+Logan Watson 179      |56        |76.700        |1018875687        |3211107852        
+Ava Gomez 180         |25        |87.400        |2937183605        |3998424241        
+Sebastian Lewis 181   |38        |61.000        |2292671042        |743224227         
+Lucas Adams 182       |49        |80.100        |2849146240        |3076752919        
+Emily Kelly 183       |41        |88.300        |3708645606        |1443122629        
+Isabella Green 184    |23        |66.000        |734731694         |3044076353        
+James Lee 185         |27        |89.600        |3944014321        |1189199992        
+Ethan Baker 186       |10        |73.200        |1457089247        |3052316699        
+Victoria Lee 187      |25        |82.400        |1040383978        |3004902625        
+Sophia Nelson 188     |58        |60.800        |2821413570        |1095580254        
+Aiden Baker 189       |55        |72.100        |2744295561        |908186189         
+Harper Gray 190       |28        |60.000        |3128319414        |4254208215        
+Sophia Lee 191        |52        |76.200        |564555021         |4284386774        
+Lucas Hall 192        |43        |65.500        |1402969957        |3883926820        
+Liam Gomez 193        |54        |70.400        |3094379981        |427906225         
+Ethan Green 194       |24        |55.400        |3516902276        |2474618586        
+Emily Carter 195      |17        |83.400        |3276795359        |3103745820        
+James Robinson 196    |23        |83.200        |3640631231        |384252702         
+Joseph Bennett 197    |47        |93.900        |2189387034        |1807352447        
+Mia Campbell 198      |22        |63.300        |1898898232        |2654351086        
+Daniel Gomez 199      |29        |50.600        |2739290271        |2803376331        
+Joseph Rivera 200     |12        |93.800        |146797073         |3961643379        
+Victoria Bennett 201  |18        |78.700        |466135534         |3282955977        
+Sophia Kelly 202      |10        |75.800        |2138927680        |20576776          
+Amelia Gomez 203      |38        |65.300        |3346447707        |3990784772        
+Aria Harris 204       |40        |55.100        |1059507320        |46100439          
+Amelia Brooks 205     |41        |53.300        |2507337422        |1198213802        
+Liam Baker 206        |19        |86.500        |1095148107        |3998395835        
+Riley Martin 207      |25        |55.300        |180373387         |2764663525        
+Grace Scott 208       |48        |85.600        |2896421130        |2626064204        
+Scarlett Gray 209     |43        |67.100        |319433484         |3321012915        
+Liam Lewis 210        |47        |94.600        |3419222629        |2116468184        
+Benjamin Scott 211    |49        |52.700        |689736754         |999695237         
+Isabella Ramirez 212  |23        |78.100        |2810461941        |1975064640        
+Emily Lee 213         |15        |57.100        |941676978         |912174229         
+Riley James 214       |14        |57.000        |4277919699        |1986607088        
+Joseph Allen 215      |54        |76.700        |1867426235        |300466401         
+Joseph Rivera 216     |24        |63.000        |2145783841        |2994934197        
+Grace Young 217       |39        |53.200        |3739974909        |1441672491        
+Ethan Hill 218        |26        |85.500        |2995921074        |4167376143        
+David Young 219       |17        |74.500        |3775993724        |312447562         
+Aria Allen 220        |27        |87.200        |3918379340        |4050428407        
+Joseph James 221      |20        |85.700        |1348929476        |235829839         
+Liam Rivera 222       |17        |71.100        |1992262306        |2539024319        
+Zoe Lee 223           |35        |92.400        |88365164          |2079355360        
+Alexander Wright 224  |41        |69.700        |4020378974        |1318734932        
+Isabella Adams 225    |37        |83.100        |2507233840        |3810060829        
+Aiden Scott 226       |15        |60.300        |325893819         |247621351         
+Alexander Scott 227   |53        |87.000        |125182634         |3418786515        
+Scarlett Young 228    |58        |57.900        |3830893993        |1759864116        
+Samuel Nelson 229     |27        |58.200        |2179407509        |2438824084        
+Sophia Hall 230       |41        |93.600        |2648878100        |1411687577        
+Benjamin Watson 231   |36        |65.000        |1957355221        |3003145095        
+Victoria Gray 232     |20        |64.800        |487588152         |2784301776        
+Alexander James 233   |52        |92.500        |837537326         |266976905         
+Logan Bennett 234     |15        |64.200        |3487387365        |2241365949        
+Zoe Ward 235          |59        |68.200        |4128535160        |1161922218        
+Sebastian Hill 236    |10        |79.600        |4062923470        |2785184758        
+Mia Martin 237        |13        |58.400        |704007090         |547291780         
+Scarlett Scott 238    |58        |72.400        |209711949         |1352411429        
+Daniel Young 239      |13        |59.200        |2184505586        |1055222226        
+Victoria Bennett 240  |28        |69.700        |2973963930        |2285609502        
+Harper Rivera 241     |11        |93.800        |2622958031        |286186805         
+Abigail Lee 242       |20        |64.000        |891094998         |2505767550        
+Chloe James 243       |36        |54.200        |953646356         |1422251093        
+David Kelly 244       |17        |79.100        |1211445158        |976773036         
+James Hill 245        |55        |63.100        |2903801447        |2921821012        
+Harper James 246      |40        |94.100        |1798256485        |1382715441        
+Ethan Young 247       |45        |56.500        |2892546637        |81186076          
+Daniel Watson 248     |48        |72.900        |876461576         |3951667955        
+Riley Green 249       |14        |62.400        |2903048665        |909341111         
+Abigail Gray 250      |60        |72.800        |2187347921        |2545889669        
+Victoria Watson 251   |56        |63.400        |2304003785        |4263333096        
+Sophia Hall 252       |19        |70.100        |4278483259        |1871999644        
+Noah James 253        |31        |74.800        |1227403459        |3898823944        
+Harper Lewis 254      |30        |89.100        |3378331338        |1777231706        
+Riley Allen 255       |34        |60.500        |1578094028        |4090382498        
+Noah Harris 256       |30        |83.500        |1343894667        |454181164         
+David Kelly 257       |52        |85.700        |2539869453        |2697617523        
+Lucas Watson 258      |12        |55.700        |1354678634        |2373114550        
+Scarlett Bennett 259  |16        |89.300        |2135617065        |2096363677        
+Abigail Robinson 260  |43        |91.000        |212170084         |901820407         
+David Baker 261       |19        |68.400        |1976276793        |1200075867        
+Isabella Green 262    |40        |85.200        |3500782003        |1909772409        
+Ava Watson 263        |49        |81.200        |3797025824        |2319922824        
+Noah Green 264        |31        |88.400        |363397636         |1560483627        
+Victoria Watson 265   |50        |82.300        |246369069         |3129247041        
+Aria Diaz 266         |44        |51.600        |139792621         |85670398          
+Joseph Diaz 267       |50        |80.800        |4061130556        |2363788549        
+Benjamin Scott 268    |57        |54.100        |928119073         |857773807         
+Benjamin James 269    |50        |81.700        |686630755         |4184087375        
+Aiden Allen 270       |20        |81.200        |825010449         |3008977655        
+Joseph Hall 271       |30        |85.800        |2295349930        |1009550567        
+Harper King 272       |33        |69.400        |1945054179        |2367157499        
+Emily Campbell 273    |36        |75.500        |2822629229        |2454761520        
+Noah Martin 274       |21        |53.600        |3237101806        |945162290         
+David Diaz 275        |53        |60.800        |3699284982        |959269442         
+Sebastian Gomez 276   |39        |78.700        |49902686          |2081062023        
+Sebastian Wright 277  |52        |50.400        |1235671183        |2524081998        
+Ella Baker 278        |28        |80.500        |2679049546        |2161412805        
+Liam Nelson 279       |38        |92.500        |3147480398        |2416207088        
+Sebastian Watson 280  |37        |81.100        |2726781164        |733741303         
+Noah Watson 281       |29        |59.000        |30094059          |1189997721        
+Noah Lewis 282        |40        |54.800        |4275095891        |1026852075        
+Joseph Adams 283      |32        |75.900        |2841026200        |759074874         
+Abigail Lewis 284     |52        |67.800        |2566382976        |2030094535        
+Amelia Young 285      |53        |85.000        |3492528573        |2220273586        
+Joseph Scott 286      |48        |83.500        |3947142010        |705649782         
+Matthew Diaz 287      |24        |77.300        |2685706475        |2952083372        
+Isabella Ramirez 288  |50        |58.600        |2695582833        |1675995625        
+Daniel Nelson 289     |58        |82.400        |1053178743        |732804248         
+Alexander Gray 290    |16        |90.700        |829607972         |3329916755        
+Mia Robinson 291      |60        |69.800        |1180697041        |3022861167        
+Joseph Green 292      |18        |54.100        |752931150         |3731168137        
+Ethan Brooks 293      |57        |68.700        |2606634515        |2951068331        
+Mia King 294          |60        |74.300        |3682750355        |294958966         
+Ella Gomez 295        |42        |91.100        |436451589         |2667862443        
+Joseph Robinson 296   |40        |93.500        |2309962553        |1700533216        
+Sebastian Baker 297   |31        |86.200        |1750639718        |541069682         
+Grace Watson 298      |19        |83.900        |3136047287        |1281649056        
+Olivia Watson 299     |53        |82.600        |1586984709        |1606146655        
+----------------------+----------+--------------+------------------+------------------
+
+STARTING DATA (all records)
+----------------------+----------+--------------
+name                  |games     |winning       
+----------------------+----------+--------------
+James Diaz 000        |50        |55.000        
+Benjamin Ramirez 001  |24        |56.300        
+Ava Lewis 002         |57        |90.100        
+Ava Carter 003        |37        |51.400        
+Aiden Lee 004         |24        |72.700        
+Riley Diaz 005        |22        |82.200        
+Abigail Scott 006     |38        |76.500        
+Lucas Gomez 007       |20        |81.400        
+Lucas Bennett 008     |19        |59.700        
+Matthew Watson 009    |15        |67.100        
+Alexander Robinson 010|32        |77.200        
+Noah Baker 011        |39        |74.100        
+Mia Lewis 012         |45        |63.200        
+Alexander Ramirez 013 |22        |81.700        
+Ava Watson 014        |24        |84.800        
+Noah Gomez 015        |24        |89.000        
+Mia Campbell 016      |39        |78.600        
+James Rivera 017      |33        |66.000        
+Ella Lee 018          |53        |79.200        
+Sebastian Harris 019  |56        |61.000        
+Grace Ramirez 020     |27        |94.500        
+Amelia Diaz 021       |30        |87.900        
+Olivia Gomez 022      |12        |86.200        
+Logan Carter 023      |14        |59.500        
+Sebastian Brooks 024  |51        |72.500        
+Isabella Robinson 025 |26        |56.300        
+Olivia Hall 026       |47        |69.300        
+Daniel King 027       |24        |94.900        
+Amelia Watson 028     |41        |54.100        
+Ella Thompson 029     |17        |56.900        
+Aria Harris 030       |53        |69.000        
+Sebastian King 031    |34        |76.800        
+Abigail Ramirez 032   |26        |93.700        
+James Scott 033       |56        |55.200        
+Joseph Hill 034       |51        |65.300        
+Isabella King 035     |20        |70.400        
+Benjamin Watson 036   |58        |58.000        
+Zoe Martin 037        |50        |63.400        
+Ella Lee 038          |22        |56.900        
+Abigail Martin 039    |59        |91.500        
+Chloe Young 040       |30        |72.000        
+Liam Diaz 041         |33        |89.500        
+Ava Baker 042         |13        |60.800        
+Aria Scott 043        |56        |71.900        
+Daniel Ramirez 044    |44        |84.500        
+Ella Gomez 045        |40        |92.600        
+Samuel Carter 046     |43        |89.300        
+Ethan Rivera 047      |44        |84.000        
+Mia James 048         |29        |68.000        
+Harper Diaz 049       |43        |70.300        
+Grace Lewis 050       |14        |65.200        
+Amelia Diaz 051       |24        |50.300        
+Lucas Baker 052       |14        |90.700        
+Victoria Carter 053   |42        |60.700        
+Sophia Diaz 054       |44        |56.000        
+Riley Carter 055      |60        |71.300        
+Samuel Hall 056       |16        |54.400        
+Amelia Ramirez 057    |37        |68.500        
+Benjamin Allen 058    |51        |94.300        
+Benjamin Diaz 059     |35        |82.800        
+Scarlett Brooks 060   |22        |58.600        
+Sebastian Diaz 061    |37        |58.300        
+Benjamin Allen 062    |14        |69.900        
+Abigail Baker 063     |51        |95.000        
+Ella Hill 064         |58        |88.200        
+Olivia Wright 065     |41        |71.700        
+Abigail Harris 066    |13        |57.400        
+Sebastian Gray 067    |26        |91.700        
+Victoria Brooks 068   |37        |81.300        
+Amelia Lewis 069      |22        |63.400        
+Logan Allen 070       |57        |74.400        
+Zoe Young 071         |13        |76.300        
+Zoe Baker 072         |43        |57.100        
+Aria Ramirez 073      |21        |53.100        
+Harper Lewis 074      |25        |68.200        
+Ava Hill 075          |48        |51.800        
+Logan Young 076       |52        |76.300        
+Logan Diaz 077        |26        |59.200        
+Liam James 078        |26        |67.800        
+Aria Adams 079        |30        |91.800        
+Benjamin Baker 080    |39        |78.000        
+Isabella Brooks 081   |44        |59.600        
+Harper Hall 082       |32        |89.600        
+Liam Martin 083       |28        |57.100        
+Liam Young 084        |51        |73.800        
+Daniel Gomez 085      |52        |54.700        
+David Gomez 086       |17        |90.000        
+Lucas Carter 087      |28        |77.200        
+Isabella King 088     |53        |78.500        
+Amelia Baker 089      |41        |61.300        
+James Allen 090       |50        |69.100        
+Daniel Nelson 091     |10        |65.000        
+Scarlett Lee 092      |26        |57.300        
+Abigail Bennett 093   |55        |69.200        
+David Lee 094         |14        |92.500        
+David Hill 095        |12        |87.600        
+Mia Wright 096        |18        |51.900        
+Alexander Wright 097  |60        |93.700        
+Harper Ramirez 098    |32        |59.500        
+Riley Martin 099      |16        |65.900        
+Harper Watson 100     |57        |57.000        
+Emily Wright 101      |20        |93.900        
+Lucas Thompson 102    |36        |51.100        
+Harper Gomez 103      |36        |86.100        
+Benjamin Harris 104   |20        |85.400        
+Grace Carter 105      |12        |88.600        
+Grace Diaz 106        |39        |65.700        
+Olivia Green 107      |11        |79.700        
+James Hall 108        |27        |88.900        
+Lucas Adams 109       |51        |72.900        
+Isabella Campbell 110 |17        |89.500        
+Isabella Allen 111    |47        |93.300        
+Matthew Robinson 112  |16        |76.800        
+Zoe Bennett 113       |60        |64.100        
+Ethan Gomez 114       |34        |90.500        
+Abigail King 115      |12        |81.900        
+Ethan Hall 116        |44        |80.900        
+Lucas Martin 117      |37        |53.100        
+Chloe Robinson 118    |30        |79.900        
+Riley Green 119       |29        |72.800        
+Daniel Carter 120     |35        |81.400        
+Noah Ramirez 121      |36        |79.900        
+Liam Harris 122       |57        |90.600        
+Liam Gray 123         |45        |87.500        
+Logan James 124       |23        |69.300        
+Evelyn King 125       |38        |69.900        
+Ella Ramirez 126      |40        |85.700        
+Lucas Baker 127       |15        |62.800        
+Liam Diaz 128         |58        |60.600        
+Alexander Diaz 129    |22        |56.600        
+Aria James 130        |40        |77.500        
+Ethan Rivera 131      |36        |89.900        
+Olivia Diaz 132       |54        |67.300        
+Abigail Wright 133    |19        |79.500        
+Benjamin Scott 134    |58        |88.700        
+Sebastian Allen 135   |37        |59.800        
+Chloe James 136       |45        |61.200        
+Logan Scott 137       |18        |86.100        
+Zoe Hill 138          |38        |77.600        
+Ella Robinson 139     |45        |70.100        
+Harper Ward 140       |40        |70.300        
+Victoria Nelson 141   |50        |62.500        
+Aria Rivera 142       |25        |62.400        
+Lucas Green 143       |28        |60.600        
+David Diaz 144        |44        |53.600        
+Evelyn Baker 145      |34        |81.200        
+Sebastian Hill 146    |36        |68.300        
+Riley Harris 147      |13        |59.300        
+Aiden Watson 148      |59        |76.300        
+Sophia Adams 149      |58        |75.900        
+Noah Watson 150       |32        |63.400        
+Grace Kelly 151       |36        |74.200        
+Victoria Adams 152    |24        |62.300        
+Olivia Robinson 153   |34        |65.100        
+Daniel Martin 154     |20        |87.800        
+Olivia Lewis 155      |44        |51.200        
+Ava Nelson 156        |46        |79.800        
+Sebastian Campbell 157|37        |56.100        
+Logan Carter 158      |13        |61.700        
+Noah Gomez 159        |39        |64.700        
+Riley Gomez 160       |58        |92.800        
+Amelia Hall 161       |15        |71.200        
+Alexander Scott 162   |24        |79.300        
+Ethan Ward 163        |11        |92.700        
+Harper Brooks 164     |11        |78.000        
+Evelyn James 165      |40        |80.100        
+Mia Campbell 166      |54        |61.500        
+Chloe Scott 167       |48        |77.300        
+Benjamin Lewis 168    |20        |93.400        
+Noah Harris 169       |11        |91.800        
+Harper Bennett 170    |55        |58.900        
+Chloe Thompson 171    |54        |84.800        
+Matthew Lee 172       |46        |85.200        
+Aria King 173         |37        |79.800        
+Riley Ward 174        |51        |65.400        
+Mia Nelson 175        |41        |54.700        
+Samuel Campbell 176   |39        |81.800        
+James Martin 177      |56        |73.500        
+Sebastian Hill 178    |44        |84.900        
+Logan Watson 179      |56        |76.700        
+Ava Gomez 180         |25        |87.400        
+Sebastian Lewis 181   |38        |61.000        
+Lucas Adams 182       |49        |80.100        
+Emily Kelly 183       |41        |88.300        
+Isabella Green 184    |23        |66.000        
+James Lee 185         |27        |89.600        
+Ethan Baker 186       |10        |73.200        
+Victoria Lee 187      |25        |82.400        
+Sophia Nelson 188     |58        |60.800        
+Aiden Baker 189       |55        |72.100        
+Harper Gray 190       |28        |60.000        
+Sophia Lee 191        |52        |76.200        
+Lucas Hall 192        |43        |65.500        
+Liam Gomez 193        |54        |70.400        
+Ethan Green 194       |24        |55.400        
+Emily Carter 195      |17        |83.400        
+James Robinson 196    |23        |83.200        
+Joseph Bennett 197    |47        |93.900        
+Mia Campbell 198      |22        |63.300        
+Daniel Gomez 199      |29        |50.600        
+Joseph Rivera 200     |12        |93.800        
+Victoria Bennett 201  |18        |78.700        
+Sophia Kelly 202      |10        |75.800        
+Amelia Gomez 203      |38        |65.300        
+Aria Harris 204       |40        |55.100        
+Amelia Brooks 205     |41        |53.300        
+Liam Baker 206        |19        |86.500        
+Riley Martin 207      |25        |55.300        
+Grace Scott 208       |48        |85.600        
+Scarlett Gray 209     |43        |67.100        
+Liam Lewis 210        |47        |94.600        
+Benjamin Scott 211    |49        |52.700        
+Isabella Ramirez 212  |23        |78.100        
+Emily Lee 213         |15        |57.100        
+Riley James 214       |14        |57.000        
+Joseph Allen 215      |54        |76.700        
+Joseph Rivera 216     |24        |63.000        
+Grace Young 217       |39        |53.200        
+Ethan Hill 218        |26        |85.500        
+David Young 219       |17        |74.500        
+Aria Allen 220        |27        |87.200        
+Joseph James 221      |20        |85.700        
+Liam Rivera 222       |17        |71.100        
+Zoe Lee 223           |35        |92.400        
+Alexander Wright 224  |41        |69.700        
+Isabella Adams 225    |37        |83.100        
+Aiden Scott 226       |15        |60.300        
+Alexander Scott 227   |53        |87.000        
+Scarlett Young 228    |58        |57.900        
+Samuel Nelson 229     |27        |58.200        
+Sophia Hall 230       |41        |93.600        
+Benjamin Watson 231   |36        |65.000        
+Victoria Gray 232     |20        |64.800        
+Alexander James 233   |52        |92.500        
+Logan Bennett 234     |15        |64.200        
+Zoe Ward 235          |59        |68.200        
+Sebastian Hill 236    |10        |79.600        
+Mia Martin 237        |13        |58.400        
+Scarlett Scott 238    |58        |72.400        
+Daniel Young 239      |13        |59.200        
+Victoria Bennett 240  |28        |69.700        
+Harper Rivera 241     |11        |93.800        
+Abigail Lee 242       |20        |64.000        
+Chloe James 243       |36        |54.200        
+David Kelly 244       |17        |79.100        
+James Hill 245        |55        |63.100        
+Harper James 246      |40        |94.100        
+Ethan Young 247       |45        |56.500        
+Daniel Watson 248     |48        |72.900        
+Riley Green 249       |14        |62.400        
+Abigail Gray 250      |60        |72.800        
+Victoria Watson 251   |56        |63.400        
+Sophia Hall 252       |19        |70.100        
+Noah James 253        |31        |74.800        
+Harper Lewis 254      |30        |89.100        
+Riley Allen 255       |34        |60.500        
+Noah Harris 256       |30        |83.500        
+David Kelly 257       |52        |85.700        
+Lucas Watson 258      |12        |55.700        
+Scarlett Bennett 259  |16        |89.300        
+Abigail Robinson 260  |43        |91.000        
+David Baker 261       |19        |68.400        
+Isabella Green 262    |40        |85.200        
+Ava Watson 263        |49        |81.200        
+Noah Green 264        |31        |88.400        
+Victoria Watson 265   |50        |82.300        
+Aria Diaz 266         |44        |51.600        
+Joseph Diaz 267       |50        |80.800        
+Benjamin Scott 268    |57        |54.100        
+Benjamin James 269    |50        |81.700        
+Aiden Allen 270       |20        |81.200        
+Joseph Hall 271       |30        |85.800        
+Harper King 272       |33        |69.400        
+Emily Campbell 273    |36        |75.500        
+Noah Martin 274       |21        |53.600        
+David Diaz 275        |53        |60.800        
+Sebastian Gomez 276   |39        |78.700        
+Sebastian Wright 277  |52        |50.400        
+Ella Baker 278        |28        |80.500        
+Liam Nelson 279       |38        |92.500        
+Sebastian Watson 280  |37        |81.100        
+Noah Watson 281       |29        |59.000        
+Noah Lewis 282        |40        |54.800        
+Joseph Adams 283      |32        |75.900        
+Abigail Lewis 284     |52        |67.800        
+Amelia Young 285      |53        |85.000        
+Joseph Scott 286      |48        |83.500        
+Matthew Diaz 287      |24        |77.300        
+Isabella Ramirez 288  |50        |58.600        
+Daniel Nelson 289     |58        |82.400        
+Alexander Gray 290    |16        |90.700        
+Mia Robinson 291      |60        |69.800        
+Joseph Green 292      |18        |54.100        
+Ethan Brooks 293      |57        |68.700        
+Mia King 294          |60        |74.300        
+Ella Gomez 295        |42        |91.100        
+Joseph Robinson 296   |40        |93.500        
+Sebastian Baker 297   |31        |86.200        
+Grace Watson 298      |19        |83.900        
+Olivia Watson 299     |53        |82.600        
+----------------------+----------+--------------

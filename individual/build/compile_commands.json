@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/IceTea/Documents/LygiagretusProgramavimas/individual/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -o CMakeFiles/app.dir/main.cpp.o -c /Users/IceTea/Documents/LygiagretusProgramavimas/individual/cpp/main.cpp",
+  "file": "/Users/IceTea/Documents/LygiagretusProgramavimas/individual/cpp/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/IceTea/Documents/LygiagretusProgramavimas/individual/build/CMakeFiles/app.dir
+/Users/IceTea/Documents/LygiagretusProgramavimas/individual/build/CMakeFiles/edit_cache.dir
+/Users/IceTea/Documents/LygiagretusProgramavimas/individual/build/CMakeFiles/rebuild_cache.dir
