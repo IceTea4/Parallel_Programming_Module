@@ -1,0 +1,175 @@
+﻿{
+  "player": [
+    {
+      "name": "Lucas Wright",
+      "games": 44,
+      "winning": 63.5
+    },
+    {
+      "name": "Emily Lewis",
+      "games": 38,
+      "winning": 84.9
+    },
+    {
+      "name": "Scarlett Brooks",
+      "games": 26,
+      "winning": 65.2
+    },
+    {
+      "name": "Noah Campbell",
+      "games": 33,
+      "winning": 89.4
+    },
+    {
+      "name": "Amelia Diaz",
+      "games": 22,
+      "winning": 78.3
+    },
+    {
+      "name": "Matthew Martin",
+      "games": 47,
+      "winning": 72.0
+    },
+    {
+      "name": "Chloe Ramirez",
+      "games": 21,
+      "winning": 58.6
+    },
+    {
+      "name": "Riley Allen",
+      "games": 24,
+      "winning": 67.1
+    },
+    {
+      "name": "Olivia Gray",
+      "games": 45,
+      "winning": 91.8
+    },
+    {
+      "name": "Ethan Hill",
+      "games": 20,
+      "winning": 54.4
+    },
+    {
+      "name": "Isabella James",
+      "games": 34,
+      "winning": 69.7
+    },
+    {
+      "name": "David Thompson",
+      "games": 27,
+      "winning": 76.2
+    },
+    {
+      "name": "Mia Harris",
+      "games": 48,
+      "winning": 81.0
+    },
+    {
+      "name": "James Brooks",
+      "games": 43,
+      "winning": 66.5
+    },
+    {
+      "name": "Victoria Nelson",
+      "games": 39,
+      "winning": 74.2
+    },
+    {
+      "name": "Sophia Robinson",
+      "games": 35,
+      "winning": 87.3
+    },
+    {
+      "name": "Sebastian Lewis",
+      "games": 41,
+      "winning": 60.2
+    },
+    {
+      "name": "Grace Bennett",
+      "games": 29,
+      "winning": 90.5
+    },
+
+    {
+      "name": "Logan Adams",
+      "games": 18,
+      "winning": 30.0
+    },
+    {
+      "name": "Lucas Carter",
+      "games": 15,
+      "winning": 25.0
+    },
+    {
+      "name": "Harper Gomez",
+      "games": 20,
+      "winning": 28.0
+    },
+    {
+      "name": "Daniel Young",
+      "games": 12,
+      "winning": 22.0
+    },
+    {
+      "name": "Ella Rivera",
+      "games": 14,
+      "winning": 27.0
+    },
+    {
+      "name": "Benjamin Green",
+      "games": 16,
+      "winning": 35.0
+    },
+    {
+      "name": "Ava Baker",
+      "games": 13,
+      "winning": 29.0
+    },
+    {
+      "name": "Samuel King",
+      "games": 10,
+      "winning": 31.0
+    },
+    {
+      "name": "Evelyn Robinson",
+      "games": 9,
+      "winning": 33.0
+    },
+    {
+      "name": "Liam Watson",
+      "games": 11,
+      "winning": 28.0
+    },
+    {
+      "name": "Abigail Thompson",
+      "games": 8,
+      "winning": 24.0
+    },
+    {
+      "name": "Joseph Ward",
+      "games": 15,
+      "winning": 26.0
+    },
+    {
+      "name": "Aiden Lee",
+      "games": 7,
+      "winning": 20.0
+    },
+    {
+      "name": "Zoe Hall",
+      "games": 12,
+      "winning": 34.0
+    },
+    {
+      "name": "Amelia Kelly",
+      "games": 9,
+      "winning": 21.0
+    },
+    {
+      "name": "Alexander Brooks",
+      "games": 10,
+      "winning": 30.0
+    }
+  ]
+}

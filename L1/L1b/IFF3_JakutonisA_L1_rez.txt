@@ -1,0 +1,78 @@
+﻿STARTING DATA
+Name                 |   Games |   Winning
+--------------------------------------------------
+Lucas Wright         |      44 |     63.5
+Emily Lewis          |      38 |     84.9
+Scarlett Brooks      |      26 |     65.2
+Noah Campbell        |      33 |     89.4
+Amelia Diaz          |      22 |     78.3
+Matthew Martin       |      47 |       72
+Chloe Ramirez        |      21 |     58.6
+Riley Allen          |      24 |     67.1
+Olivia Gray          |      45 |     91.8
+Ethan Hill           |      20 |     54.4
+Isabella James       |      34 |     69.7
+David Thompson       |      27 |     76.2
+Mia Harris           |      48 |       81
+James Brooks         |      43 |     66.5
+Victoria Nelson      |      39 |     74.2
+Logan Adams          |      18 |       80
+Sophia Robinson      |      35 |     87.3
+Sebastian Lewis      |      41 |     60.2
+Aria Scott           |      19 |       75
+Grace Bennett        |      29 |     90.5
+Lucas Carter         |      37 |     77.4
+Harper Gomez         |      25 |     70.9
+Daniel Young         |      31 |     64.3
+Ella Rivera          |      28 |     73.6
+Benjamin Green       |      46 |     68.7
+Ava Baker            |      42 |       92
+Samuel King          |      30 |     62.4
+Evelyn Robinson      |      16 |       80
+Liam Watson          |      32 |     74.8
+Abigail Thompson     |      49 |     80.6
+Joseph Ward          |      36 |       59
+Aiden Lee            |      15 |       80
+Zoe Hall             |      23 |     83.7
+Amelia Kelly         |      40 |     71.5
+Alexander Brooks     |      17 |       80
+
+RESULTS (filtered)
+NR  | Name                 |   Games |   Winning |   Sum
+------------------------------------------------------------
+  0 | Ethan Hill           |      20 |     54.4 |     74.4
+  1 | Chloe Ramirez        |      21 |     58.6 |     79.6
+  2 | Joseph Ward          |      36 |       59 |       95
+  3 | Sebastian Lewis      |      41 |     60.2 |    101.2
+  4 | Samuel King          |      30 |     62.4 |     92.4
+  5 | Lucas Wright         |      44 |     63.5 |    107.5
+  6 | Daniel Young         |      31 |     64.3 |     95.3
+  7 | Scarlett Brooks      |      26 |     65.2 |     91.2
+  8 | James Brooks         |      43 |     66.5 |    109.5
+  9 | Riley Allen          |      24 |     67.1 |     91.1
+ 10 | Benjamin Green       |      46 |     68.7 |    114.7
+ 11 | Isabella James       |      34 |     69.7 |    103.7
+ 12 | Harper Gomez         |      25 |     70.9 |     95.9
+ 13 | Amelia Kelly         |      40 |     71.5 |    111.5
+ 14 | Matthew Martin       |      47 |       72 |      119
+ 15 | Ella Rivera          |      28 |     73.6 |    101.6
+ 16 | Victoria Nelson      |      39 |     74.2 |    113.2
+ 17 | Liam Watson          |      32 |     74.8 |    106.8
+ 18 | Aria Scott           |      19 |       75 |       94
+ 19 | David Thompson       |      27 |     76.2 |    103.2
+ 20 | Lucas Carter         |      37 |     77.4 |    114.4
+ 21 | Amelia Diaz          |      22 |     78.3 |    100.3
+ 22 | Alexander Brooks     |      17 |       80 |       97
+ 23 | Aiden Lee            |      15 |       80 |       95
+ 24 | Evelyn Robinson      |      16 |       80 |       96
+ 25 | Logan Adams          |      18 |       80 |       98
+ 26 | Abigail Thompson     |      49 |     80.6 |    129.6
+ 27 | Mia Harris           |      48 |       81 |      129
+ 28 | Zoe Hall             |      23 |     83.7 |    106.7
+ 29 | Emily Lewis          |      38 |     84.9 |    122.9
+ 30 | Sophia Robinson      |      35 |     87.3 |    122.3
+ 31 | Noah Campbell        |      33 |     89.4 |    122.4
+ 32 | Grace Bennett        |      29 |     90.5 |    119.5
+ 33 | Olivia Gray          |      45 |     91.8 |    136.8
+ 34 | Ava Baker            |      42 |       92 |      134
+Bendra lauku suma          |    1120 |   2604.7 |   3724.7
