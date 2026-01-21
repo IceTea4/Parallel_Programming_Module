@@ -1,0 +1,77 @@
+STARTING DATA
+Name                 |   Games |   Winning
+--------------------------------------------------
+Lucas Wright         |      44 |    63.50
+Emily Lewis          |      38 |    84.90
+Scarlett Brooks      |      26 |    65.20
+Noah Campbell        |      33 |    89.40
+Amelia Diaz          |      22 |    78.30
+Matthew Martin       |      47 |    72.00
+Chloe Ramirez        |      21 |    58.60
+Riley Allen          |      24 |    67.10
+Olivia Gray          |      45 |    91.80
+Ethan Hill           |      20 |    54.40
+Isabella James       |      34 |    69.70
+David Thompson       |      27 |    76.20
+Mia Harris           |      48 |    81.00
+James Brooks         |      43 |    66.50
+Victoria Nelson      |      39 |    74.20
+Logan Adams          |      18 |    80.00
+Sophia Robinson      |      35 |    87.30
+Sebastian Lewis      |      41 |    60.20
+Aria Scott           |      19 |    75.00
+Grace Bennett        |      29 |    90.50
+Lucas Carter         |      37 |    77.40
+Harper Gomez         |      25 |    70.90
+Daniel Young         |      31 |    64.30
+Ella Rivera          |      28 |    73.60
+Benjamin Green       |      46 |    68.70
+Ava Baker            |      42 |    92.00
+Samuel King          |      30 |    62.40
+Evelyn Robinson      |      16 |    80.00
+Liam Watson          |      32 |    74.80
+Abigail Thompson     |      49 |    80.60
+Joseph Ward          |      36 |    59.00
+Aiden Lee            |      15 |    80.00
+Zoe Hall             |      23 |    83.70
+Amelia Kelly         |      40 |    71.50
+Alexander Brooks     |      17 |    80.00
+
+RESULTS (filtered)
+Name                 |   Games |   Winning
+--------------------------------------------------
+0 Ethan Hill           |      20 |    54.40
+1 Chloe Ramirez        |      21 |    58.60
+2 Joseph Ward          |      36 |    59.00
+3 Sebastian Lewis      |      41 |    60.20
+4 Samuel King          |      30 |    62.40
+5 Lucas Wright         |      44 |    63.50
+6 Daniel Young         |      31 |    64.30
+7 Scarlett Brooks      |      26 |    65.20
+8 James Brooks         |      43 |    66.50
+9 Riley Allen          |      24 |    67.10
+10 Benjamin Green       |      46 |    68.70
+11 Isabella James       |      34 |    69.70
+12 Harper Gomez         |      25 |    70.90
+13 Amelia Kelly         |      40 |    71.50
+14 Matthew Martin       |      47 |    72.00
+15 Ella Rivera          |      28 |    73.60
+16 Victoria Nelson      |      39 |    74.20
+17 Liam Watson          |      32 |    74.80
+18 Aria Scott           |      19 |    75.00
+19 David Thompson       |      27 |    76.20
+20 Lucas Carter         |      37 |    77.40
+21 Amelia Diaz          |      22 |    78.30
+22 Alexander Brooks     |      17 |    80.00
+23 Aiden Lee            |      15 |    80.00
+24 Evelyn Robinson      |      16 |    80.00
+25 Logan Adams          |      18 |    80.00
+26 Abigail Thompson     |      49 |    80.60
+27 Mia Harris           |      48 |    81.00
+28 Zoe Hall             |      23 |    83.70
+29 Emily Lewis          |      38 |    84.90
+30 Sophia Robinson      |      35 |    87.30
+31 Noah Campbell        |      33 |    89.40
+32 Grace Bennett        |      29 |    90.50
+33 Olivia Gray          |      45 |    91.80
+34 Ava Baker            |      42 |    92.00
